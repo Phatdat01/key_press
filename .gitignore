@@ -1,2 +1,5 @@
+dist
+build
+*.spec
 .venv
 a*.txt
